@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScoutTracker", "ScoutTracker\ScoutTracker.csproj", "{F6356473-C27E-42AD-9C6F-B78343899EEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScoutTracker.Tests", "ScoutTracker.Tests\ScoutTracker.Tests.csproj", "{2FCE6BFB-6A80-4980-BEC8-C0FE5C60DF3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6356473-C27E-42AD-9C6F-B78343899EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6356473-C27E-42AD-9C6F-B78343899EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6356473-C27E-42AD-9C6F-B78343899EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6356473-C27E-42AD-9C6F-B78343899EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FCE6BFB-6A80-4980-BEC8-C0FE5C60DF3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FCE6BFB-6A80-4980-BEC8-C0FE5C60DF3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FCE6BFB-6A80-4980-BEC8-C0FE5C60DF3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FCE6BFB-6A80-4980-BEC8-C0FE5C60DF3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
